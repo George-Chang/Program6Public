@@ -1,5 +1,9 @@
+#George Chang
+#5/15/2023
+# This program determines grade average statistics
+
 # function to read the file
-def readFile(filename):
+def readFile(filename): Grade Statistics
     try:
         # opening the file
         file = open(filename, 'r')
